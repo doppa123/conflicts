@@ -1,3 +1,10 @@
 Hi this is sudheer
 Hi this is rajiv
+login(){
+if(username=password=correct){
+system.out.println("login sucess")
+}
+if(username=password=wrong){
+System.out.println("login sucess")
+}
 
